@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Bar, Pie } from 'react-chartjs-2';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import {
   Chart as ChartJS,
   ArcElement,
